@@ -63,9 +63,9 @@ Las bajas son lógicas. La creación de pedidos valida todos los detalles antes 
 
 - Informe: `Informe_TPI_FoodStore.pdf`
 - Repositorio: `https://github.com/gonzalezgaston971-spec/Tpi_programacion2.git`
-- Video público: pendiente de grabación y publicación.
+- Video público: `https://youtu.be/L9sYnB2tz2c`
 
 ## Créditos
 
 - Estudiante: Gaston Gonzalez
-- Fecha de entrega: 15/11/2026
+- Fecha de entrega: 16/11/2026
